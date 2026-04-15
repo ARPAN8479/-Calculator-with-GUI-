@@ -4,9 +4,18 @@ A modern calculator application built using Python and Tkinter featuring a clean
 
 ---
 
+## ⭐ Key Highlights
+
+* Clean and modern dark UI
+* Fully functional GUI calculator
+* Keyboard support implemented
+* Calculation history tracking
+* Structured and readable code
+
+---
+
 ## 🚀 Features
 
-* Modern dark user interface
 * Basic arithmetic operations (+, −, ×, ÷)
 * Keyboard input support
 * Backspace & clear functionality
@@ -15,9 +24,11 @@ A modern calculator application built using Python and Tkinter featuring a clean
 
 ---
 
-## 📸 Screenshot
+## 📸 Application Preview
 
-![Calculator](screenshot.png)<img width="631" height="797" alt="image" src="https://github.com/user-attachments/assets/0e78136a-baf7-4633-b85a-130240feb7fa" />
+This is how the calculator looks while running:
+
+![Calculator](screenshot.png)<img width="630" height="795" alt="image" src="https://github.com/user-attachments/assets/5c3ef8af-9d0c-49b4-97a8-9d6f646b553c" />
 
 
 ---
@@ -45,6 +56,23 @@ python main.py
 
 ---
 
+## ⚙️ How It Works
+
+* User inputs are captured via button clicks or keyboard
+* Expression is stored as a string
+* Python's eval() function evaluates the expression
+* Result is displayed and stored in history panel
+
+---
+
+## ⚠️ Limitations
+
+* Uses eval(), which is not safe for production-level applications
+* Only supports basic arithmetic operations
+* No input validation for complex expressions
+
+---
+
 ## 🛠️ Tech Stack
 
 * Python 3.x
@@ -66,9 +94,9 @@ calculator-gui-python/
 ## 👤 Author
 
 * Name: Arpan
-* University: (Shree Guru Gobind tricentenary university)
-* Registration No: (2513021113)
-* Department: (Fcaulty of engineering in cse)
+* University: SGT
+* Registration No: 251302113 
+* Department: FACULTY OF ENGINEERING IN CSE
 
 ---
 
@@ -84,3 +112,4 @@ calculator-gui-python/
 ## 📄 License
 
 This project is created for educational purposes.
+**
