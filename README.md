@@ -17,7 +17,8 @@ A modern calculator application built using Python and Tkinter featuring a clean
 
 ## 📸 Screenshot
 
-![Calculator](screenshot.png)
+![Calculator](screenshot.png)<img width="631" height="797" alt="image" src="https://github.com/user-attachments/assets/0e78136a-baf7-4633-b85a-130240feb7fa" />
+
 
 ---
 
