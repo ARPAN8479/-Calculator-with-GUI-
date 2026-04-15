@@ -1,2 +1,15 @@
-# -Calculator-with-GUI-
-A lightweight Calculator application developed in Python using Tkinter. The project features a clean graphical interface and supports standard arithmetic operations. It serves as a beginner-friendly implementation of GUI design, event-driven programming, and basic application structuring.
+## Features
+- Addition, subtraction, multiplication, division
+- GUI built with Tkinter
+- User-friendly interface
+
+## How to Run
+1. Install Python
+2. Run: python main.py
+
+## Screenshot
+(Add image here)
+
+## Project Structure
+- main.py → main calculator code
+- README.md → documentation
