@@ -112,4 +112,5 @@ calculator-gui-python/
 ## 📄 License
 
 This project is created for educational purposes.
+> ✅ Status: Completed and working
 **
